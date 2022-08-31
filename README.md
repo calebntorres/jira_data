@@ -1,5 +1,5 @@
 # jira_data
-A dara pipeline for Jira analytics
+A data pipeline for Jira analytics
 
 
 ## Progress Updates
